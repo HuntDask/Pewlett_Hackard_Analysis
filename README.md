@@ -11,3 +11,11 @@ In this project, we are asked to Perform employee research on who will be retiri
 
 2. In the second part, we use the distinict on in the SQL script, so that all of the duplicates are taken out of the data that we have been trying to generate.
 <img width="802" alt="Unique_titles" src="https://user-images.githubusercontent.com/107444840/204405543-f64621ed-cd0b-4ce4-900b-80d061316c32.png">
+
+3. From our data collected, we were able to find that there are about 90,000 potnetial retirees in the Pewlett Hackard Company
+
+4. From our data, we can see that there are about 1500 emplyess that are born in the year 1965.
+
+## Summary
+- From our results category and number 3, we are able to see that there are exactly 90,398 positons that need to be filled because that is how many potnetial retireees the company will have according to our data. 
+- From our data in the part 4, we can see that we had about 1500 potnetial new employees for the company. Pased on our numbers, the different between the 90,000 mark and the 1,500 is obvioulsy a huge gap of potnetial new employees to retiring employees, around 85,000 respectivly. I believe that based on these results that we have collected for our data analysis, the company needs to urgenly start ot reach and look out for new potnetial hiring due to the massive load of retiring employees in the upcoming years. 
